@@ -1,7 +1,7 @@
 $(document).ready(function () {
     // --- CONFIGURAÇÃO PRINCIPAL ---
     // !!! COLE AQUI A URL DO SEU GOOGLE APPS SCRIPT PUBLICADO !!!
-    const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxph8N_Hj0PDjtVDG5EkcQeGtIXEPsJR1HrMry0cUfZglziwVR_P9bdzR0YN-l7rayN3Q/exec";
+    const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwxh-c0PuOCYqpo2xZtrcgq-Tkglwgg0TAdvBhTxpyHocHYDCqY-KTYRw66h7aXWqu1hQ/exec";
 
     let quadroDeColaboradores = [];
     let dadosDasSubmissoes = [];
@@ -341,4 +341,5 @@ $(document).ready(function () {
     `;}
 
     iniciarDashboard();
+
 });
